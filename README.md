@@ -1,5 +1,12 @@
-# Firebase Studio
+# Chatterbox AI
 
-This is a NextJS starter in Firebase Studio.
+This is a Next.js application for an AI assistant chatbot, designed to provide information and support.
 
-To get started, take a look at src/app/page.tsx.
+**Core Features**:
+
+- **New Conversation**: Start a new chat session with the AI assistant.
+- **Message Input**: Type and send messages to the AI.
+- **AI Response**: Receive AI-generated responses.
+- **Chat History**: View the history of messages in the current chat session.
+
+To get started, run `npm run dev` and open your browser to the specified port.
